@@ -1,0 +1,16 @@
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\bin\Debug\net6.0-windows\ListaPudlo_Net6.exe
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\bin\Debug\net6.0-windows\ListaPudlo_Net6.deps.json
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\bin\Debug\net6.0-windows\ListaPudlo_Net6.runtimeconfig.json
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\bin\Debug\net6.0-windows\ListaPudlo_Net6.dll
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\bin\Debug\net6.0-windows\ListaPudlo_Net6.pdb
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.Form1.resources
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.csproj.GenerateResource.cache
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.AssemblyInfoInputs.cache
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.AssemblyInfo.cs
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.csproj.CoreCompileInputs.cache
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.dll
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\refint\ListaPudlo_Net6.dll
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.pdb
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ListaPudlo_Net6.genruntimeconfig.cache
+C:\Users\BW-VR\source\repos\ListaPudlo_Net6\ListaPudlo_Net6\obj\Debug\net6.0-windows\ref\ListaPudlo_Net6.dll
