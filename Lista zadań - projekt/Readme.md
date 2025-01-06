@@ -9,7 +9,6 @@
 **Wykorzystane struktury danych:**
 
 * Lista Jednokierunkowa (Single Linked List)
-* Wyszukiwanie liniowe
 
 Każde utworzone zadanie jest zapisana we własnej strukturze danych o nazwie NodeLZ, który zawiera łańcuch znaków
 by opisać zadanie, Date by wyznaczyć limit czasu by go ukończyć oraz bool by poinformować czy dane zadanie ma priortyet czy nie.
