@@ -4,6 +4,8 @@
 
 **Autor Projektu**: Bartłomiej Wasyluk (175214)
 
+**Wersja .NET**: 6.0
+
 
 ## Opis Projektu
 **Wykorzystane struktury danych:**
